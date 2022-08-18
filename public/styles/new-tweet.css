@@ -1,0 +1,32 @@
+form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: center;
+
+}
+
+textarea {
+  flex: 100%;
+  border-bottom: solid 5px #4056A1;
+  margin-top: .5em;
+  margin-bottom: .5em;
+  color: #4056A1;
+  height: 50px;
+  outline: none;
+}
+
+label {
+  color: #4056A1;
+}
+
+H3 {
+  color: #4056A1;
+}
+
+button {
+  background-color:#4056A1;
+  color: #FFFFFF;
+}
+
+/* don't forget to edit fonts later! */
